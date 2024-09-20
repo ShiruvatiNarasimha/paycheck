@@ -2,7 +2,7 @@
 
 Node.js
 Installation
-Clone the repository: git clone https://
+Clone the repository: git clone https://github.com/ShiruvatiNarasimha/paycheck.git
 
 Install dependencies: npm install
 
