@@ -10,7 +10,7 @@ const EmailWaitlist = () => {
               Join the waitlist now
             </div>
             <div className=" md:text-2xl text-xl mb-10 ">
-              Sign up for xPay now and get 20% discount on international payment
+              Sign up for PayCheckout now and get 20% discount on international payment
               fees
             </div>
             <div className=" bg-sfuchsia-400 w-full flex md:flex-row flex-col justify-center items-center gap-3 text-black">

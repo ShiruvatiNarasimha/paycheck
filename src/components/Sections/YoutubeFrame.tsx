@@ -14,7 +14,7 @@ const YoutubeFrame = () => {
               width="100%"
               height="100%"
               src={
-                ""
+                " "
               }
               title="YouTube video player"
               allow="accelerometer; gyroscope; picture-in-picture;"
