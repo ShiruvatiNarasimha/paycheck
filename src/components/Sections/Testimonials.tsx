@@ -15,9 +15,9 @@ const Testimonials = () => {
                 content={
                   "Cheers to the xPay crew for their top-notch product! Transitioning from other services to xPay was a breeze—appreciate the streamlined process and clear API documentation."
                 }
-                image={"/person1.avif"}
+                image={""}
                 name={" "}
-                founder={"Co-Founder Peppyhop"}
+                founder={""}
               />
             </div>
             <div>
@@ -25,9 +25,9 @@ const Testimonials = () => {
                 content={
                   "The team at xPay has made integration a breeze. Their prompt support had us up and running in no time. It's simplicity done right."
                 }
-                image={"/person2.avif"}
+                image={""}
                 name={" "}
-                founder={"Founding Team Bolna"}
+                founder={""}
               />
             </div>
             <div>
@@ -35,9 +35,9 @@ const Testimonials = () => {
                 content={
                   "Absolutely thrilled with the quick service! My first payment of $600 was processed seamlessly, and I'm excited for more transactions this week. Big thanks to the team for making this happen!"
                 }
-                image={"/person3.avif"}
+                image={" "}
                 name={" "}
-                founder={"Founder at Rhym"}
+                founder={""}
               />
             </div>
           </div>
