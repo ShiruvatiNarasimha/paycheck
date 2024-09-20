@@ -23,6 +23,7 @@ const AppbarContent = ({
         whileHover={{ scaleX: 1.05 }}
         style={{ originX: 1 }}
         transition={{ duration: 0.2 }}
+        
       >
         <button
           onClick={() => setSidebarOpen(false)}
