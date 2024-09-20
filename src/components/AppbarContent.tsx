@@ -32,7 +32,7 @@ const AppbarContent = ({
             <Link
               target="_blank"
               href={
-                "https://calendly.com/aniket-vem/talk-payments-with-xpay-pst"
+                ""
               }
             >
               Talk&nbsp;to&nbsp;Founder&nbsp;
